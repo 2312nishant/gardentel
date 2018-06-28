@@ -16,6 +16,15 @@
 // az iot hub show-connection-string --hub-name {YourIoTHubName} --output table
 var Client = require('azure-iothub').Client;
 var Message = require('azure-iot-common').Message;
+var winston = require('winston');
+const logger = winston.createLogger({
+  transports: [
+    new winston.transports.Console(),
+    new winston.transports.File({ filename: 'app-log.log' })
+  ]
+});
+
+logger.info('hey app is running');
 
 var connectionString = 'HostName=SATHUBDEMO.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=w9LoDswGW0jqnGjCOFOUH0AKoTnqZLYBcoceO7AK86Y=';
 var deviceId ;
@@ -26,7 +35,7 @@ var deviceName ;
 // The sample connects to an IoT hub's Event Hubs-compatible endpoint
 // to read messages sent from a device.
 var { EventHubClient, EventPosition } = require('azure-event-hubs');
-var db = require('./loggingreceiver.js');
+//var db = require('./loggingreceiver.js');
 var printError = function (err) {
   console.log(err.message);
 };
@@ -43,7 +52,7 @@ var printMessage = function (message) {
   console.log("todevice "+ JSON.stringify(data.todevice));
   deviceName = JSON.stringify(data.command);
   console.log("deviceName "+ deviceName);
-
+logger.info('logging running'+deviceId);
 if( typeof deviceId!="undefined"){
 var targetDevice = JSON.parse(deviceId);;
 
@@ -77,6 +86,16 @@ function receiveFeedback(err, receiver){
     console.log(msg.getData().toString('utf-8'));
   });
 }
+process
+  .on('unhandledRejection', (reason, p) => {
+    console.error(reason, 'Unhandled Rejection at Promise', p);
+logger.info('logging error'+reason);
+  })
+  .on('uncaughtException', err => {
+logger.info('logging error22-> '+err);
+    console.error(err, 'Uncaught Exception thrown');
+    process.exit(1);
+  });
 
   console.log("command "+ JSON.stringify(data.command));
   console.log('Application properties (set by device): ')
@@ -105,6 +124,7 @@ EventHubClient.createFromIotHubConnectionString(connectionString).then(function 
   return ehClient.getPartitionIds();
 }).then(function (ids) {
   console.log("The partition ids are: ", ids);
+logger.info("The partition ids are ",ids);
   return ids.map(function (id) {
     return ehClient.receive(id, printMessage, printError, { eventPosition: EventPosition.fromEnqueuedTime(Date.now()) });
   });
