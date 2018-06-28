@@ -1,0 +1,1727 @@
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119054485,"iothub-message-source":"Telemetry","x-opt-sequence-number":10199,"x-opt-offset":"6318104","x-opt-enqueued-time":1530119054943}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119055313,"iothub-message-source":"Telemetry","x-opt-sequence-number":10200,"x-opt-offset":"6318608","x-opt-enqueued-time":1530119056077}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119055860,"iothub-message-source":"Telemetry","x-opt-sequence-number":10201,"x-opt-offset":"6319112","x-opt-enqueued-time":1530119056077}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119062243,"iothub-message-source":"Telemetry","x-opt-sequence-number":10202,"x-opt-offset":"6319616","x-opt-enqueued-time":1530119063105}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119062587,"iothub-message-source":"Telemetry","x-opt-sequence-number":10203,"x-opt-offset":"6320096","x-opt-enqueued-time":1530119063105}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119085645,"iothub-message-source":"Telemetry","x-opt-sequence-number":10204,"x-opt-offset":"6320600","x-opt-enqueued-time":1530119086348}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119113132,"iothub-message-source":"Telemetry","x-opt-sequence-number":10205,"x-opt-offset":"6321080","x-opt-enqueued-time":1530119113535}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119268298,"iothub-message-source":"Telemetry","x-opt-sequence-number":10206,"x-opt-offset":"6321560","x-opt-enqueued-time":1530119269152}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119706576,"iothub-message-source":"Telemetry","x-opt-sequence-number":10207,"x-opt-offset":"6322040","x-opt-enqueued-time":1530119706962}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119707045,"iothub-message-source":"Telemetry","x-opt-sequence-number":10208,"x-opt-offset":"6322520","x-opt-enqueued-time":1530119708103}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119941902,"iothub-message-source":"Telemetry","x-opt-sequence-number":10220,"x-opt-offset":"6328424","x-opt-enqueued-time":1530119941967}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119942402,"iothub-message-source":"Telemetry","x-opt-sequence-number":10221,"x-opt-offset":"6328928","x-opt-enqueued-time":1530119943030}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119945030,"iothub-message-source":"Telemetry","x-opt-sequence-number":10222,"x-opt-offset":"6329432","x-opt-enqueued-time":1530119945047}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119945142,"iothub-message-source":"Telemetry","x-opt-sequence-number":10223,"x-opt-offset":"6329936","x-opt-enqueued-time":1530119946085}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119969349,"iothub-message-source":"Telemetry","x-opt-sequence-number":10224,"x-opt-offset":"6330440","x-opt-enqueued-time":1530119970310}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119973356,"iothub-message-source":"Telemetry","x-opt-sequence-number":10225,"x-opt-offset":"6330920","x-opt-enqueued-time":1530119973401}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119979778,"iothub-message-source":"Telemetry","x-opt-sequence-number":10226,"x-opt-offset":"6331424","x-opt-enqueued-time":1530119980491}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119984869,"iothub-message-source":"Telemetry","x-opt-sequence-number":10227,"x-opt-offset":"6331928","x-opt-enqueued-time":1530119985593}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530119985463,"iothub-message-source":"Telemetry","x-opt-sequence-number":10228,"x-opt-offset":"6332408","x-opt-enqueued-time":1530119985593}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530120137338,"iothub-message-source":"Telemetry","x-opt-sequence-number":10229,"x-opt-offset":"6332912","x-opt-enqueued-time":1530120138094}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530120141761,"iothub-message-source":"Telemetry","x-opt-sequence-number":10230,"x-opt-offset":"6333392","x-opt-enqueued-time":1530120142272}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530120159974,"iothub-message-source":"Telemetry","x-opt-sequence-number":10231,"x-opt-offset":"6333872","x-opt-enqueued-time":1530120160469}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530120160115,"iothub-message-source":"Telemetry","x-opt-sequence-number":10232,"x-opt-offset":"6334352","x-opt-enqueued-time":1530120160469}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530120160599,"iothub-message-source":"Telemetry","x-opt-sequence-number":10233,"x-opt-offset":"6334832","x-opt-enqueued-time":1530120161517}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":24,"u32SH":1094861844,"u32SVN":121,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":24,"u32SH":1094861844,"u32SVN":121,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513027,"iothub-message-source":"Telemetry","x-opt-sequence-number":10295,"x-opt-offset":"6372256","x-opt-enqueued-time":1530165513369}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513027,"iothub-message-source":"Telemetry","x-opt-sequence-number":10295,"x-opt-offset":"6372256","x-opt-enqueued-time":1530165513369}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513121,"iothub-message-source":"Telemetry","x-opt-sequence-number":10296,"x-opt-offset":"6372736","x-opt-enqueued-time":1530165513369}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513121,"iothub-message-source":"Telemetry","x-opt-sequence-number":10296,"x-opt-offset":"6372736","x-opt-enqueued-time":1530165513369}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513231,"iothub-message-source":"Telemetry","x-opt-sequence-number":10297,"x-opt-offset":"6373216","x-opt-enqueued-time":1530165513369}
+
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513231,"iothub-message-source":"Telemetry","x-opt-sequence-number":10297,"x-opt-offset":"6373216","x-opt-enqueued-time":1530165513369}
+
+Service client connected
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513356,"iothub-message-source":"Telemetry","x-opt-sequence-number":10298,"x-opt-offset":"6373696","x-opt-enqueued-time":1530165514434}
+
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165513356,"iothub-message-source":"Telemetry","x-opt-sequence-number":10298,"x-opt-offset":"6373696","x-opt-enqueued-time":1530165514434}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":25,"u32SH":1094861844,"u32SVN":121,"u32CVN":17,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":25,"u32SH":1094861844,"u32SVN":121,"u32CVN":17,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":26,"u32SH":1094861844,"u32SVN":121,"u32CVN":19,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":26,"u32SH":1094861844,"u32SVN":121,"u32CVN":19,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":27,"u32SH":1094861844,"u32SVN":121,"u32CVN":21,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":27,"u32SH":1094861844,"u32SVN":121,"u32CVN":21,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":28,"u32SH":1094861844,"u32SVN":121,"u32CVN":22,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":28,"u32SH":1094861844,"u32SVN":121,"u32CVN":22,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165533038,"iothub-message-source":"Telemetry","x-opt-sequence-number":10303,"x-opt-offset":"6377312","x-opt-enqueued-time":1530165533642}
+
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165533038,"iothub-message-source":"Telemetry","x-opt-sequence-number":10303,"x-opt-offset":"6377312","x-opt-enqueued-time":1530165533642}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":29,"u32SH":1094861844,"u32SVN":121,"u32CVN":24,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:52Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":29,"u32SH":1094861844,"u32SVN":121,"u32CVN":24,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:52Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165536388,"iothub-message-source":"Telemetry","x-opt-sequence-number":10305,"x-opt-offset":"6378576","x-opt-enqueued-time":1530165536722}
+
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165536388,"iothub-message-source":"Telemetry","x-opt-sequence-number":10305,"x-opt-offset":"6378576","x-opt-enqueued-time":1530165536722}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":30,"u32SH":1094861844,"u32SVN":121,"u32CVN":26,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:56Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":30,"u32SH":1094861844,"u32SVN":121,"u32CVN":26,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:28:56Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165542701,"iothub-message-source":"Telemetry","x-opt-sequence-number":10307,"x-opt-offset":"6379864","x-opt-enqueued-time":1530165542863}
+
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165542701,"iothub-message-source":"Telemetry","x-opt-sequence-number":10307,"x-opt-offset":"6379864","x-opt-enqueued-time":1530165542863}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":31,"u32SH":1094861844,"u32SVN":121,"u32CVN":28,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:02Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":31,"u32SH":1094861844,"u32SVN":121,"u32CVN":28,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:02Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165545182,"iothub-message-source":"Telemetry","x-opt-sequence-number":10309,"x-opt-offset":"6381128","x-opt-enqueued-time":1530165545936}
+
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165545182,"iothub-message-source":"Telemetry","x-opt-sequence-number":10309,"x-opt-offset":"6381128","x-opt-enqueued-time":1530165545936}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":32,"u32SH":1094861844,"u32SVN":121,"u32CVN":30,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:05Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":32,"u32SH":1094861844,"u32SVN":121,"u32CVN":30,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:05Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165548559,"iothub-message-source":"Telemetry","x-opt-sequence-number":10311,"x-opt-offset":"6382392","x-opt-enqueued-time":1530165548999}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPTiAwMDEgQ0M=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165548559,"iothub-message-source":"Telemetry","x-opt-sequence-number":10311,"x-opt-offset":"6382392","x-opt-enqueued-time":1530165548999}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":33,"u32SH":1094861844,"u32SVN":121,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":33,"u32SH":1094861844,"u32SVN":121,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"MTAwVkFMVkVPRiAwMDEgQzQ=\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165551238,"iothub-message-source":"Telemetry","x-opt-sequence-number":10313,"x-opt-offset":"6383656","x-opt-enqueued-time":1530165552086}
+
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165551238,"iothub-message-source":"Telemetry","x-opt-sequence-number":10313,"x-opt-offset":"6383656","x-opt-enqueued-time":1530165552086}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":34,"u32SH":1094861844,"u32SVN":121,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:11Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":34,"u32SH":1094861844,"u32SVN":121,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:29:11Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":35,"u32SH":1094861844,"u32SVN":121,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:30:10Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":35,"u32SH":1094861844,"u32SVN":121,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:30:10Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":36,"u32SH":1094861844,"u32SVN":121,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:10Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":36,"u32SH":1094861844,"u32SVN":121,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:10Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165688809,"iothub-message-source":"Telemetry","x-opt-sequence-number":10317,"x-opt-offset":"6386488","x-opt-enqueued-time":1530165689662}
+
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165688809,"iothub-message-source":"Telemetry","x-opt-sequence-number":10317,"x-opt-offset":"6386488","x-opt-enqueued-time":1530165689662}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165690419,"iothub-message-source":"Telemetry","x-opt-sequence-number":10318,"x-opt-offset":"6387048","x-opt-enqueued-time":1530165690714}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":37,"u32SH":1094861844,"u32SVN":121,"u32CVN":35,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165690419,"iothub-message-source":"Telemetry","x-opt-sequence-number":10318,"x-opt-offset":"6387048","x-opt-enqueued-time":1530165690714}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":37,"u32SH":1094861844,"u32SVN":121,"u32CVN":35,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Service client connected
+Sending message: undefined
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":38,"u32SH":1094861844,"u32SVN":121,"u32CVN":36,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":38,"u32SH":1094861844,"u32SVN":121,"u32CVN":36,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165691501,"iothub-message-source":"Telemetry","x-opt-sequence-number":10321,"x-opt-offset":"6389200","x-opt-enqueued-time":1530165691716}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+undefined
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165691501,"iothub-message-source":"Telemetry","x-opt-sequence-number":10321,"x-opt-offset":"6389200","x-opt-enqueued-time":1530165691716}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165691642,"iothub-message-source":"Telemetry","x-opt-sequence-number":10322,"x-opt-offset":"6389784","x-opt-enqueued-time":1530165691716}
+
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165691642,"iothub-message-source":"Telemetry","x-opt-sequence-number":10322,"x-opt-offset":"6389784","x-opt-enqueued-time":1530165691716}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165692048,"iothub-message-source":"Telemetry","x-opt-sequence-number":10323,"x-opt-offset":"6390344","x-opt-enqueued-time":1530165692732}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+{"message":"logging running{\"Name\":\"Play\",\"Parameters\":{\"Data\":\"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ==\"}}","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530165692048,"iothub-message-source":"Telemetry","x-opt-sequence-number":10323,"x-opt-offset":"6390344","x-opt-enqueued-time":1530165692732}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"TERUMVYwMDAwMDAwMDAxLE1kMDpmODo4YzoyYTo1Njo3ZCxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTE6MzEsRDAxOjAxIDAwMQ=="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":39,"u32SH":1094861844,"u32SVN":121,"u32CVN":38,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":40,"u32SH":1094861844,"u32SVN":121,"u32CVN":39,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":39,"u32SH":1094861844,"u32SVN":121,"u32CVN":38,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":40,"u32SH":1094861844,"u32SVN":121,"u32CVN":39,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":41,"u32SH":1094861844,"u32SVN":121,"u32CVN":41,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":42,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":41,"u32SH":1094861844,"u32SVN":121,"u32CVN":41,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":42,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:31:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":43,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:32:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":43,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:32:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":44,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:33:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":44,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:33:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":45,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:34:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":45,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:34:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":46,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:35:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":46,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:35:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":47,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:36:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":47,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:36:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":48,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:37:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":48,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:37:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":49,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:38:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":49,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:38:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":50,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:39:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":50,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:39:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":51,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:40:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":51,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:40:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":52,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:41:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":52,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:41:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":53,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:42:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":53,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:42:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":54,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:43:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":54,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:43:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":55,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:44:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":55,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:44:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":56,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:45:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":56,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:45:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":57,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:46:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":57,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:46:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":58,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:47:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":58,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:47:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":59,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:48:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":59,"u32SH":1094861844,"u32SVN":121,"u32CVN":42,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T11:48:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167864137,"iothub-message-source":"Telemetry","x-opt-sequence-number":10376,"x-opt-offset":"6428112","x-opt-enqueued-time":1530167864728}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":79,"u32SH":1094861844,"u32SVN":121,"u32CVN":43,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:07:43Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167872297,"iothub-message-source":"Telemetry","x-opt-sequence-number":10378,"x-opt-offset":"6429376","x-opt-enqueued-time":1530167872868}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":80,"u32SH":1094861844,"u32SVN":121,"u32CVN":44,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:07:51Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167882543,"iothub-message-source":"Telemetry","x-opt-sequence-number":10380,"x-opt-offset":"6430640","x-opt-enqueued-time":1530167883019}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167883668,"iothub-message-source":"Telemetry","x-opt-sequence-number":10381,"x-opt-offset":"6431120","x-opt-enqueued-time":1530167884066}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":81,"u32SH":1094861844,"u32SVN":121,"u32CVN":45,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:02Z"}
+todevice undefined
+deviceName undefined
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167892620,"iothub-message-source":"Telemetry","x-opt-sequence-number":10383,"x-opt-offset":"6432384","x-opt-enqueued-time":1530167893164}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":82,"u32SH":1094861844,"u32SVN":121,"u32CVN":46,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:12Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167895659,"iothub-message-source":"Telemetry","x-opt-sequence-number":10385,"x-opt-offset":"6433648","x-opt-enqueued-time":1530167896270}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":83,"u32SH":1094861844,"u32SVN":121,"u32CVN":47,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:15Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167898116,"iothub-message-source":"Telemetry","x-opt-sequence-number":10387,"x-opt-offset":"6434912","x-opt-enqueued-time":1530167898301}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":84,"u32SH":1094861844,"u32SVN":121,"u32CVN":48,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:17Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167900877,"iothub-message-source":"Telemetry","x-opt-sequence-number":10389,"x-opt-offset":"6436176","x-opt-enqueued-time":1530167901402}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":85,"u32SH":1094861844,"u32SVN":121,"u32CVN":49,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:20Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167903049,"iothub-message-source":"Telemetry","x-opt-sequence-number":10391,"x-opt-offset":"6437440","x-opt-enqueued-time":1530167903425}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":86,"u32SH":1094861844,"u32SVN":121,"u32CVN":50,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:22Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTAsRDAwOjAyIDAwMCBDRiA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTAsRDAwOjAyIDAwMCBDRiA="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTAsRDAwOjAyIDAwMCBDRiA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167921711,"iothub-message-source":"Telemetry","x-opt-sequence-number":10393,"x-opt-offset":"6438704","x-opt-enqueued-time":1530167922728}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTAsRDAwOjAyIDAwMCBDRiA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":87,"u32SH":1094861844,"u32SVN":121,"u32CVN":51,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:41Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530167931218,"iothub-message-source":"Telemetry","x-opt-sequence-number":10395,"x-opt-offset":"6440056","x-opt-enqueued-time":1530167931885}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":88,"u32SH":1094861844,"u32SVN":121,"u32CVN":52,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:08:50Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":89,"u32SH":1094861844,"u32SVN":121,"u32CVN":52,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:09:50Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":90,"u32SH":1094861844,"u32SVN":121,"u32CVN":52,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:10:50Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTUsRDAwOjA0IDAwMCBENyA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTUsRDAwOjA0IDAwMCBENyA="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTUsRDAwOjA0IDAwMCBENyA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168086884,"iothub-message-source":"Telemetry","x-opt-sequence-number":10399,"x-opt-offset":"6442912","x-opt-enqueued-time":1530168087815}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI4OjA2OjE4LEYwMSxPMTI6MTUsRDAwOjA0IDAwMCBENyA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":91,"u32SH":1094861844,"u32SVN":121,"u32CVN":53,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:11:27Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":92,"u32SH":1094861844,"u32SVN":121,"u32CVN":53,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:11:56Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":93,"u32SH":1094861844,"u32SVN":121,"u32CVN":53,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:12:56Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":94,"u32SH":1094861844,"u32SVN":121,"u32CVN":53,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:13:56Z"}
+todevice undefined
+deviceName undefined
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168290335,"iothub-message-source":"Telemetry","x-opt-sequence-number":10404,"x-opt-offset":"6446616","x-opt-enqueued-time":1530168291197}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168290335,"iothub-message-source":"Telemetry","x-opt-sequence-number":10404,"x-opt-offset":"6446616","x-opt-enqueued-time":1530168291197}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":95,"u32SH":1094861844,"u32SVN":121,"u32CVN":55,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:14:50Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":95,"u32SH":1094861844,"u32SVN":121,"u32CVN":55,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:14:50Z"}
+todevice undefined
+deviceName undefined
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168750688,"iothub-message-source":"Telemetry","x-opt-sequence-number":10419,"x-opt-offset":"6455944","x-opt-enqueued-time":1530168751161}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168756996,"iothub-message-source":"Telemetry","x-opt-sequence-number":10420,"x-opt-offset":"6456424","x-opt-enqueued-time":1530168757303}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":123,"u32CVN":8,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:24:53Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":123,"u32CVN":8,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:24:53Z"}
+todevice undefined
+deviceName undefined
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+ReferenceError: Id is not defined
+    at StreamingReceiver.printMessage [as _onMessage] (/home/anik/gardentel/ReadDeviceToCloudMessages.js:55:31)
+    at Receiver.EventHubReceiver._onAmqpMessage (/home/anik/gardentel/node_modules/azure-event-hubs/dist/lib/eventHubReceiver.js:70:18)
+    at emitOne (events.js:116:13)
+    at Receiver.emit (events.js:211:7)
+    at Receiver.link.dispatch (/home/anik/gardentel/node_modules/rhea/lib/link.js:59:37)
+    at Incoming.on_transfer (/home/anik/gardentel/node_modules/rhea/lib/session.js:347:22)
+    at Session.on_transfer (/home/anik/gardentel/node_modules/rhea/lib/session.js:693:19)
+    at Connection.(anonymous function) [as on_transfer] (/home/anik/gardentel/node_modules/rhea/lib/connection.js:671:30)
+    at c.dispatch (/home/anik/gardentel/node_modules/rhea/lib/types.js:904:33)
+    at Transport.read (/home/anik/gardentel/node_modules/rhea/lib/transport.js:95:36)
+    at SaslClient.read (/home/anik/gardentel/node_modules/rhea/lib/sasl.js:277:26)
+    at Connection.input (/home/anik/gardentel/node_modules/rhea/lib/connection.js:428:35)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168909424,"iothub-message-source":"Telemetry","x-opt-sequence-number":10422,"x-opt-offset":"6457680","x-opt-enqueued-time":1530168909935}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168909690,"iothub-message-source":"Telemetry","x-opt-sequence-number":10423,"x-opt-offset":"6458160","x-opt-enqueued-time":1530168909935}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168910255,"iothub-message-source":"Telemetry","x-opt-sequence-number":10424,"x-opt-offset":"6458640","x-opt-enqueued-time":1530168910966}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168910302,"iothub-message-source":"Telemetry","x-opt-sequence-number":10425,"x-opt-offset":"6459144","x-opt-enqueued-time":1530168910966}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168910395,"iothub-message-source":"Telemetry","x-opt-sequence-number":10426,"x-opt-offset":"6459624","x-opt-enqueued-time":1530168910966}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168965773,"iothub-message-source":"Telemetry","x-opt-sequence-number":10427,"x-opt-offset":"6460104","x-opt-enqueued-time":1530168966502}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168966054,"iothub-message-source":"Telemetry","x-opt-sequence-number":10428,"x-opt-offset":"6460584","x-opt-enqueued-time":1530168966502}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168966554,"iothub-message-source":"Telemetry","x-opt-sequence-number":10429,"x-opt-offset":"6461064","x-opt-enqueued-time":1530168967549}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168966601,"iothub-message-source":"Telemetry","x-opt-sequence-number":10430,"x-opt-offset":"6461544","x-opt-enqueued-time":1530168967549}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530168966835,"iothub-message-source":"Telemetry","x-opt-sequence-number":10431,"x-opt-offset":"6462024","x-opt-enqueued-time":1530168967549}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":127,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":62,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:28:26Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":127,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":62,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:29:25Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":129,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:31:46Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":129,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:32:46Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":131,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:34:31Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":131,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:35:31Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":133,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":62,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:37:52Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":133,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":62,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:38:52Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":135,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":52,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:40:37Z"}
+todevice undefined
+deviceName undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":135,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":52,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T12:41:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530179889909,"iothub-message-source":"Telemetry","x-opt-sequence-number":10601,"x-opt-offset":"6580752","x-opt-enqueued-time":1530179890588}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":167,"u32CVN":9,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:28:09Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530179894771,"iothub-message-source":"Telemetry","x-opt-sequence-number":10603,"x-opt-offset":"6582008","x-opt-enqueued-time":1530179895676}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":167,"u32CVN":10,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:28:14Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":167,"u32CVN":10,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:28:44Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOSA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOSA="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOSA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530179965966,"iothub-message-source":"Telemetry","x-opt-sequence-number":10606,"x-opt-offset":"6584056","x-opt-enqueued-time":1530179966611}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOSA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":167,"u32CVN":11,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:29:25Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQSA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQSA="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQSA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530179981883,"iothub-message-source":"Telemetry","x-opt-sequence-number":10608,"x-opt-offset":"6585408","x-opt-enqueued-time":1530179982822}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQSA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":6,"u32SH":1094861844,"u32SVN":167,"u32CVN":12,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:29:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDA0LE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQiA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDA0LE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQiA="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDA0LE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQiA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530179994833,"iothub-message-source":"Telemetry","x-opt-sequence-number":10610,"x-opt-offset":"6586760","x-opt-enqueued-time":1530179994979}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDA0LE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEQiA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":167,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:29:53Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":8,"u32SH":1094861844,"u32SVN":167,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:30:23Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":9,"u32SH":1094861844,"u32SVN":167,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:31:23Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDEwLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOCA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDEwLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOCA="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDEwLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOCA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530180091079,"iothub-message-source":"Telemetry","x-opt-sequence-number":10614,"x-opt-offset":"6589680","x-opt-enqueued-time":1530180091999}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDEwLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzIsRDAwOjAyIDAwMSBEOCA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":10,"u32SH":1094861844,"u32SVN":169,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:31:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":11,"u32SH":1094861844,"u32SVN":169,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:32:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDExLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzUsRDAwOjAyIDAwMSBEQyA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDExLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzUsRDAwOjAyIDAwMSBEQyA="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDExLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzUsRDAwOjAyIDAwMSBEQyA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530180187375,"iothub-message-source":"Telemetry","x-opt-sequence-number":10617,"x-opt-offset":"6591816","x-opt-enqueued-time":1530180188140}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDExLE03Yzo3ODo3ZToxODowYTo0YyxTMjg6MDY6MTgsRTI5OjA2OjE4LEYwMSxPMTU6MzUsRDAwOjAyIDAwMSBEQyA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":12,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:33:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":13,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:33:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":14,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:34:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":15,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:35:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":16,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:36:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":17,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:37:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":18,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:38:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":19,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:39:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":20,"u32SH":1094861844,"u32SVN":171,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:40:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":173,"u32CVN":14,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-28T15:42:52Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
