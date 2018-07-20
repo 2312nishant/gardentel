@@ -1725,3 +1725,2004 @@ commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":173
 todevice undefined
 deviceName undefined
 {"message":"logging runningundefined","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248342460,"iothub-message-source":"Telemetry","x-opt-sequence-number":10739,"x-opt-offset":"6684840","x-opt-enqueued-time":1530248342891}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248343367,"iothub-message-source":"Telemetry","x-opt-sequence-number":10740,"x-opt-offset":"6685320","x-opt-enqueued-time":1530248343932}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":249,"u32CVN":15,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:29:02Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":249,"u32CVN":16,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:29:03Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248346296,"iothub-message-source":"Telemetry","x-opt-sequence-number":10743,"x-opt-offset":"6687368","x-opt-enqueued-time":1530248346999}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":6,"u32SH":1094861844,"u32SVN":249,"u32CVN":17,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:29:06Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248349650,"iothub-message-source":"Telemetry","x-opt-sequence-number":10745,"x-opt-offset":"6688632","x-opt-enqueued-time":1530248350109}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248358398,"iothub-message-source":"Telemetry","x-opt-sequence-number":10746,"x-opt-offset":"6689112","x-opt-enqueued-time":1530248359233}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248361555,"iothub-message-source":"Telemetry","x-opt-sequence-number":10747,"x-opt-offset":"6689592","x-opt-enqueued-time":1530248362327}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":249,"u32CVN":17,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:29:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248394385,"iothub-message-source":"Telemetry","x-opt-sequence-number":10749,"x-opt-offset":"6690856","x-opt-enqueued-time":1530248394722}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":249,"u32CVN":17,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:29:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running\"D8B04CB90DC8\"","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530248468461,"iothub-message-source":"Telemetry","x-opt-sequence-number":10751,"x-opt-offset":"6692120","x-opt-enqueued-time":1530248468645}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":249,"u32CVN":22,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":64,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:31:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:33:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:34:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:35:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:36:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:37:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":6,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:38:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:39:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":8,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:40:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":9,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:41:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":10,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:42:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":11,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:43:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":12,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:44:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":13,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:45:25Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":14,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:46:25Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":15,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:47:24Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":16,"u32SH":1094861844,"u32SVN":249,"u32CVN":23,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":60,"u8C1TID":0,"u8C1ETID":0,"u8C1STId":0,"u8C1ATId":0,"u8C1Rt":5,"u8C1B":0,"u8C1WL":0,"u8C1WB":0,"u8C1SB":0,"u8C1PB":0,"u8C2TID":0,"u8C2ETID":0,"u8C2STId":0,"u8C2ATId":0,"u8C2Rt":5,"u8C2B":0,"u8C2WL":0,"u8C2WB":0,"u8C2SB":0,"u8C2PB":0,"ts":"2018-06-29T10:48:24Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging runningundefined","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":47,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:04:09Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":48,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:05:09Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":49,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:06:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":50,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:07:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":51,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:08:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":52,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:09:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":53,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:10:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":54,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:11:06Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":55,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:12:06Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":56,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:13:06Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":57,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:14:05Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":58,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:15:05Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":59,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:16:05Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":60,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:17:04Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":61,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:18:04Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":62,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:19:04Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":63,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:20:03Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":64,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:21:03Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":65,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:22:03Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":66,"u32SH":1094861844,"u32SVN":901,"u32CVN":34,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":54,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:23:02Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":907,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:43:20Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":907,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T11:44:19Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":112,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:28:45Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":113,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:29:45Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":114,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:30:44Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":115,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:31:44Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":116,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:32:44Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":117,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:33:43Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":118,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:34:43Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":119,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:35:43Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":120,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:36:42Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":121,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:37:42Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":122,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:38:42Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":123,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:39:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":124,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:40:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":125,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:41:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":126,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:42:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":127,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:43:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":128,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:44:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":129,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:45:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":130,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:46:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":131,"u32SH":1094861844,"u32SVN":931,"u32CVN":32,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-04T17:47:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":10,"u32SH":1094861844,"u32SVN":1025,"u32CVN":36,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":74,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:45:15Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":11,"u32SH":1094861844,"u32SVN":1025,"u32CVN":36,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":74,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:46:14Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":17,"u32CVN":0,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:51:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":17,"u32CVN":0,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:52:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":17,"u32CVN":0,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:53:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":17,"u32CVN":0,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:54:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":17,"u32CVN":1,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:54:43Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":6,"u32SH":1094861844,"u32SVN":17,"u32CVN":2,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:54:57Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":17,"u32CVN":2,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:55:57Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786393054,"iothub-message-source":"Telemetry","x-opt-sequence-number":13299,"x-opt-offset":"8437736","x-opt-enqueued-time":1530786393445}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":8,"u32SH":1094861844,"u32SVN":17,"u32CVN":3,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:56:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786397731,"iothub-message-source":"Telemetry","x-opt-sequence-number":13301,"x-opt-offset":"8438792","x-opt-enqueued-time":1530786398543}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":9,"u32SH":1094861844,"u32SVN":17,"u32CVN":4,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:56:38Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786403763,"iothub-message-source":"Telemetry","x-opt-sequence-number":13303,"x-opt-offset":"8439848","x-opt-enqueued-time":1530786404645}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":10,"u32SH":1094861844,"u32SVN":17,"u32CVN":5,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:56:44Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786424561,"iothub-message-source":"Telemetry","x-opt-sequence-number":13305,"x-opt-offset":"8440904","x-opt-enqueued-time":1530786424923}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":11,"u32SH":1094861844,"u32SVN":17,"u32CVN":6,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:57:04Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786427780,"iothub-message-source":"Telemetry","x-opt-sequence-number":13307,"x-opt-offset":"8441960","x-opt-enqueued-time":1530786428017}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":12,"u32SH":1094861844,"u32SVN":17,"u32CVN":7,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:57:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786434672,"iothub-message-source":"Telemetry","x-opt-sequence-number":13309,"x-opt-offset":"8443016","x-opt-enqueued-time":1530786435142}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786434969,"iothub-message-source":"Telemetry","x-opt-sequence-number":13310,"x-opt-offset":"8443496","x-opt-enqueued-time":1530786435142}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":13,"u32SH":1094861844,"u32SVN":17,"u32CVN":8,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:57:14Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":14,"u32SH":1094861844,"u32SVN":17,"u32CVN":9,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:57:14Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786437892,"iothub-message-source":"Telemetry","x-opt-sequence-number":13313,"x-opt-offset":"8445152","x-opt-enqueued-time":1530786438221}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":15,"u32SH":1094861844,"u32SVN":17,"u32CVN":10,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:57:18Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":16,"u32SH":1094861844,"u32SVN":17,"u32CVN":10,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:57:48Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTMxOjA3OjE4LEYwMSxPMTY6MDAsRDAwOjA1IDAwMSBDRCA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTMxOjA3OjE4LEYwMSxPMTY6MDAsRDAwOjA1IDAwMSBDRCA="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTMxOjA3OjE4LEYwMSxPMTY6MDAsRDAwOjA1IDAwMSBDRCA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786493459,"iothub-message-source":"Telemetry","x-opt-sequence-number":13316,"x-opt-offset":"8446800","x-opt-enqueued-time":1530786493907}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAxLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTMxOjA3OjE4LEYwMSxPMTY6MDAsRDAwOjA1IDAwMSBDRCA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":17,"u32SH":1094861844,"u32SVN":19,"u32CVN":11,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:58:14Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEOCA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEOCA="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEOCA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786548952,"iothub-message-source":"Telemetry","x-opt-sequence-number":13318,"x-opt-offset":"8447952","x-opt-enqueued-time":1530786549500}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMVYwMDAwMDAwMDAyLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEOCA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":18,"u32SH":1094861844,"u32SVN":21,"u32CVN":12,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:59:09Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":19,"u32SH":1094861844,"u32SVN":21,"u32CVN":12,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T15:59:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEQSA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEQSA="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEQSA="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786580743,"iothub-message-source":"Telemetry","x-opt-sequence-number":13321,"x-opt-offset":"8449688","x-opt-enqueued-time":1530786580888}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUMlYwMDAwMDAwMDAzLE03Yzo3ODo3ZToxODowYTo0YyxTMDU6MDc6MTgsRTEwOjA4OjE4LEYwMixPMTY6NTksRDAxOjAxIDAwMSBEQSA="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":23,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":74,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:02:24Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwTERUM1YwMDAwMDAwMDA1LE03Yzo3ODo3ZToxODowYTo0YyxTMTI6MDc6MTgsRTE4OjA4OjE4LEYwMSxPMjA6MDIsRDAyOjAxIDAwMSBEMiA="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwTERUM1YwMDAwMDAwMDA1LE03Yzo3ODo3ZToxODowYTo0YyxTMTI6MDc6MTgsRTE4OjA4OjE4LEYwMSxPMjA6MDIsRDAyOjAxIDAwMSBEMiA="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwTERUM1YwMDAwMDAwMDA1LE03Yzo3ODo3ZToxODowYTo0YyxTMTI6MDc6MTgsRTE4OjA4OjE4LEYwMSxPMjA6MDIsRDAyOjAxIDAwMSBEMiA="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636651825965030716","iothub-enqueuedtime":1530786786386,"iothub-message-source":"Telemetry","x-opt-sequence-number":13323,"x-opt-offset":"8450856","x-opt-enqueued-time":1530786786493}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwTERUM1YwMDAwMDAwMDA1LE03Yzo3ODo3ZToxODowYTo0YyxTMTI6MDc6MTgsRTE4OjA4OjE4LEYwMSxPMjA6MDIsRDAyOjAxIDAwMSBEMiA="}}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":129,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:47:01Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":141,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:48:01Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:55:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:56:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:57:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:58:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T16:59:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":6,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:00:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:01:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":8,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:02:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":9,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:03:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":10,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:04:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":11,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:05:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":16,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:10:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":17,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:11:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+bash: -c: line 0: syntax error near unexpected token `&'
+bash: -c: line 0: `node ReadDeviceToCloudMessages.js 2>1& &'
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":18,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:12:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":18,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:12:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":19,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:13:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":19,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:13:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":20,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:14:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":20,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:14:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":21,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:15:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":21,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:15:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":22,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:16:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":22,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:16:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":23,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:17:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":23,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:17:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":24,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:18:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":24,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:18:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":25,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:19:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":25,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:19:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":26,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:20:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":26,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:20:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":27,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:21:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":27,"u32SH":1094861844,"u32SVN":145,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":68,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-05T17:21:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+bash: -c: line 0: syntax error near unexpected token `&'
+bash: -c: line 0: `node ReadDeviceToCloudMessages.js 2>1& &'
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":36,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T11:55:42Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":37,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T11:56:42Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":38,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T11:57:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":39,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T11:58:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":40,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T11:59:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":41,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:00:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":42,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:01:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":43,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:02:40Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":44,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:03:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":45,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:04:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":46,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:05:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":47,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:06:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":48,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:07:38Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":49,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:08:38Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":50,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:09:38Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":51,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:10:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":52,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:11:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":53,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:12:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":54,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:13:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":55,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:14:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":58,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:17:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":59,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:18:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":60,"u32SH":1094861844,"u32SVN":157,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":72,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:19:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:23:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:24:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:25:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:26:28Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:27:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":6,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:28:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:29:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":8,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:30:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":9,"u32SH":1094861844,"u32SVN":159,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":66,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:31:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":161,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":70,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:34:13Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":163,"u32CVN":13,"u32SRS":2,"u32EVT_ID":0,"u8RSSI":70,"u8C1TID":0,"u8C1ETID":0,"u8C2TID":0,"u8C2ETID":0,"ts":"2018-07-06T12:37:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531040035172,"iothub-message-source":"Telemetry","x-opt-sequence-number":14088,"x-opt-offset":"8893176","x-opt-enqueued-time":1531040036141}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+App running on 3000
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":7,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":2,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:16:23Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":8,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":2,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:16:53Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115237087,"iothub-message-source":"Telemetry","x-opt-sequence-number":14142,"x-opt-offset":"8921800","x-opt-enqueued-time":1531115237808}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":9,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":3,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:17:17Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115244567,"iothub-message-source":"Telemetry","x-opt-sequence-number":14144,"x-opt-offset":"8922864","x-opt-enqueued-time":1531115244942}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115244848,"iothub-message-source":"Telemetry","x-opt-sequence-number":14145,"x-opt-offset":"8923344","x-opt-enqueued-time":1531115244942}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115245051,"iothub-message-source":"Telemetry","x-opt-sequence-number":14146,"x-opt-offset":"8923824","x-opt-enqueued-time":1531115246004}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115245286,"iothub-message-source":"Telemetry","x-opt-sequence-number":14147,"x-opt-offset":"8924304","x-opt-enqueued-time":1531115246004}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115245536,"iothub-message-source":"Telemetry","x-opt-sequence-number":14148,"x-opt-offset":"8924784","x-opt-enqueued-time":1531115246004}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":10,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":4,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:17:24Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":11,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":5,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:17:25Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Service client connected
+Sending message: undefined
+Service client connected
+Sending message: undefined
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115261831,"iothub-message-source":"Telemetry","x-opt-sequence-number":14151,"x-opt-offset":"8926448","x-opt-enqueued-time":1531115262192}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115261941,"iothub-message-source":"Telemetry","x-opt-sequence-number":14152,"x-opt-offset":"8926952","x-opt-enqueued-time":1531115262192}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115262769,"iothub-message-source":"Telemetry","x-opt-sequence-number":14153,"x-opt-offset":"8927432","x-opt-enqueued-time":1531115263223}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115262878,"iothub-message-source":"Telemetry","x-opt-sequence-number":14154,"x-opt-offset":"8927912","x-opt-enqueued-time":1531115263223}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115262988,"iothub-message-source":"Telemetry","x-opt-sequence-number":14155,"x-opt-offset":"8928392","x-opt-enqueued-time":1531115263223}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":12,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":7,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:17:42Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Service client connected
+Sending message: undefined
+Service client connected
+Sending message: undefined
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":13,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":7,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:18:41Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115324997,"iothub-message-source":"Telemetry","x-opt-sequence-number":14158,"x-opt-offset":"8930056","x-opt-enqueued-time":1531115325803}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":14,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":8,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:18:45Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":15,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":8,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:19:45Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115392109,"iothub-message-source":"Telemetry","x-opt-sequence-number":14161,"x-opt-offset":"8931720","x-opt-enqueued-time":1531115392532}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":16,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":9,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:19:52Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115395331,"iothub-message-source":"Telemetry","x-opt-sequence-number":14163,"x-opt-offset":"8932792","x-opt-enqueued-time":1531115395610}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":17,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":10,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:19:55Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115398301,"iothub-message-source":"Telemetry","x-opt-sequence-number":14165,"x-opt-offset":"8933864","x-opt-enqueued-time":1531115398659}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":18,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":11,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:19:58Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115400168,"iothub-message-source":"Telemetry","x-opt-sequence-number":14167,"x-opt-offset":"8934936","x-opt-enqueued-time":1531115400721}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":19,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":12,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:20:00Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115406849,"iothub-message-source":"Telemetry","x-opt-sequence-number":14169,"x-opt-offset":"8936008","x-opt-enqueued-time":1531115407800}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":20,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":13,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:20:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115423074,"iothub-message-source":"Telemetry","x-opt-sequence-number":14171,"x-opt-offset":"8937080","x-opt-enqueued-time":1531115424026}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115423199,"iothub-message-source":"Telemetry","x-opt-sequence-number":14172,"x-opt-offset":"8937560","x-opt-enqueued-time":1531115424026}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":21,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":14,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:20:23Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":22,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":15,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:20:24Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115427444,"iothub-message-source":"Telemetry","x-opt-sequence-number":14175,"x-opt-offset":"8939224","x-opt-enqueued-time":1531115428130}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":23,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":16,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:20:27Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115430409,"iothub-message-source":"Telemetry","x-opt-sequence-number":14177,"x-opt-offset":"8940296","x-opt-enqueued-time":1531115431195}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":24,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:20:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":25,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:21:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":26,"u32SH":1094861844,"u32SVN":1397,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":66,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:22:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115859012,"iothub-message-source":"Telemetry","x-opt-sequence-number":14181,"x-opt-offset":"8942552","x-opt-enqueued-time":1531115859900}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115859388,"iothub-message-source":"Telemetry","x-opt-sequence-number":14182,"x-opt-offset":"8943032","x-opt-enqueued-time":1531115859900}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115859747,"iothub-message-source":"Telemetry","x-opt-sequence-number":14183,"x-opt-offset":"8943512","x-opt-enqueued-time":1531115859900}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115859966,"iothub-message-source":"Telemetry","x-opt-sequence-number":14184,"x-opt-offset":"8943992","x-opt-enqueued-time":1531115860947}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":1405,"u32DR":61,"u32CVN":20,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":18,"u8VS":1,"u8TS":0,"ts":"2018-07-09T11:27:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":1405,"u32DR":61,"u32CVN":21,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:27:39Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":1405,"u32DR":61,"u32CVN":21,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:28:09Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115909982,"iothub-message-source":"Telemetry","x-opt-sequence-number":14188,"x-opt-offset":"8946248","x-opt-enqueued-time":1531115910574}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531115910248,"iothub-message-source":"Telemetry","x-opt-sequence-number":14189,"x-opt-offset":"8946728","x-opt-enqueued-time":1531115910574}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":1405,"u32DR":61,"u32CVN":23,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:28:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":1405,"u32DR":61,"u32CVN":23,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":18,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:29:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":1,"u32SH":1094861844,"u32SVN":1407,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":1,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:32:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":2,"u32SH":1094861844,"u32SVN":1407,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":1,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:33:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":3,"u32SH":1094861844,"u32SVN":1407,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":1,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:34:08Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":4,"u32SH":1094861844,"u32SVN":1407,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":1,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:35:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":5,"u32SH":1094861844,"u32SVN":1407,"u32DR":61,"u32CVN":17,"u32SRS":2,"u32LD":53,"u32VN":54,"u8RSSI":68,"u8TN":4,"u8PS":1,"u8VS":0,"u8TS":0,"ts":"2018-07-09T11:36:07Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+{"message":"hey app is running","level":"info"}
+Successully created the EventHub Client from iothub connection string.
+The partition ids are:  [ '0', '1' ]
+{"0":"0","1":"1","level":"info","message":"The partition ids are "}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":53,"u32SH":1094861844,"u32SVN":51,"u32CVN":0,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:08:54Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":54,"u32SH":1094861844,"u32SVN":51,"u32CVN":0,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:09:54Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381214837,"iothub-message-source":"Telemetry","x-opt-sequence-number":15712,"x-opt-offset":"9872808","x-opt-enqueued-time":1531381215351}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":55,"u32SH":1094861844,"u32SVN":51,"u32CVN":1,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:14Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":56,"u32SH":1094861844,"u32SVN":51,"u32CVN":2,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:15Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381216641,"iothub-message-source":"Telemetry","x-opt-sequence-number":15715,"x-opt-offset":"9874552","x-opt-enqueued-time":1531381217414}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":57,"u32SH":1094861844,"u32SVN":51,"u32CVN":3,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:16Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":58,"u32SH":1094861844,"u32SVN":51,"u32CVN":4,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:17Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381225817,"iothub-message-source":"Telemetry","x-opt-sequence-number":15718,"x-opt-offset":"9876296","x-opt-enqueued-time":1531381226479}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381226129,"iothub-message-source":"Telemetry","x-opt-sequence-number":15719,"x-opt-offset":"9876776","x-opt-enqueued-time":1531381226479}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":59,"u32SH":1094861844,"u32SVN":51,"u32CVN":7,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":60,"u32SH":1094861844,"u32SVN":51,"u32CVN":8,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:26Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381230509,"iothub-message-source":"Telemetry","x-opt-sequence-number":15722,"x-opt-offset":"9878544","x-opt-enqueued-time":1531381230573}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":61,"u32SH":1094861844,"u32SVN":51,"u32CVN":10,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:10:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":62,"u32SH":1094861844,"u32SVN":51,"u32CVN":10,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:11:29Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381341332,"iothub-message-source":"Telemetry","x-opt-sequence-number":15725,"x-opt-offset":"9880312","x-opt-enqueued-time":1531381341823}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381342332,"iothub-message-source":"Telemetry","x-opt-sequence-number":15726,"x-opt-offset":"9880808","x-opt-enqueued-time":1531381342870}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":63,"u32SH":1094861844,"u32SVN":51,"u32CVN":11,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:12:20Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381343035,"iothub-message-source":"Telemetry","x-opt-sequence-number":15728,"x-opt-offset":"9881936","x-opt-enqueued-time":1531381343887}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTI6MjAgMDAxIEU0"}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":64,"u32SH":1094861844,"u32SVN":51,"u32CVN":12,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:12:20Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381353115,"iothub-message-source":"Telemetry","x-opt-sequence-number":15730,"x-opt-offset":"9883064","x-opt-enqueued-time":1531381354038}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":65,"u32SH":1094861844,"u32SVN":51,"u32CVN":13,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:12:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381356927,"iothub-message-source":"Telemetry","x-opt-sequence-number":15732,"x-opt-offset":"9884176","x-opt-enqueued-time":1531381357118}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPTiAwMDEgQ0M="}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":66,"u32SH":1094861844,"u32SVN":51,"u32CVN":14,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":1,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:12:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381359322,"iothub-message-source":"Telemetry","x-opt-sequence-number":15734,"x-opt-offset":"9885288","x-opt-enqueued-time":1531381360166}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwVkFMVkVPRiAwMDEgQzQ="}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381360650,"iothub-message-source":"Telemetry","x-opt-sequence-number":15735,"x-opt-offset":"9885768","x-opt-enqueued-time":1531381361229}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":67,"u32SH":1094861844,"u32SVN":51,"u32CVN":15,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:12:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":68,"u32SH":1094861844,"u32SVN":51,"u32CVN":15,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:13:06Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381418388,"iothub-message-source":"Telemetry","x-opt-sequence-number":15738,"x-opt-offset":"9887536","x-opt-enqueued-time":1531381418971}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381419091,"iothub-message-source":"Telemetry","x-opt-sequence-number":15739,"x-opt-offset":"9888032","x-opt-enqueued-time":1531381420034}
+
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":69,"u32SH":1094861844,"u32SVN":51,"u32CVN":16,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:13:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Service client connected
+Sending message: undefined
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Application properties (set by device): 
+undefined
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381420122,"iothub-message-source":"Telemetry","x-opt-sequence-number":15741,"x-opt-offset":"9889160","x-opt-enqueued-time":1531381421050}
+
+Telemetry received: 
+commond1{"fromdevice":"celphone","todevice":"D8B04CB90DC8","command":{"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}}
+todevice "D8B04CB90DC8"
+deviceName {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+{"message":"logging running1","level":"info"}
+command {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Application properties (set by device): 
+{"mqtt-dup":"true"}
+System properties (set by IoT Hub): 
+{"iothub-connection-device-id":"954c5a594decef41","iothub-connection-auth-method":"{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}","iothub-connection-auth-generation-id":"636664738652976230","iothub-enqueuedtime":1531381420278,"iothub-message-source":"Telemetry","x-opt-sequence-number":15742,"x-opt-offset":"9889656","x-opt-enqueued-time":1531381421050}
+
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Service client connected
+Sending message: {"Name":"Play","Parameters":{"Data":"MTAwUlRDU0VUVE0gMTM6MTM6MzcgMDAxIEVE"}}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":70,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:13:37Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":71,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:14:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":72,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:15:36Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":73,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:16:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":74,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:17:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":75,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:18:35Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":76,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:19:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":77,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:20:34Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":78,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:21:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":79,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:22:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":80,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:23:33Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":81,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:24:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":82,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:25:32Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":83,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:26:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":84,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:27:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":85,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:28:31Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":86,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:29:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}
+Telemetry received: 
+commond1{"deviceId":"D8B04CDBB134","messageId":87,"u32SH":1094861844,"u32SVN":51,"u32CVN":18,"u32SRS":2,"u8RSSI":62,"u32VN":2,"Log":{"ID":2,"T":2,"DT":"12/07/18","D":61},"u8PS":3,"u8VS":0,"u8TS":0,"DS":"Temporary Debug String","ts":"2018-07-12T13:30:30Z"}
+todevice undefined
+deviceName undefined
+{"message":"logging running1","level":"info"}

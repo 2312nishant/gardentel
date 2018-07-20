@@ -3,6 +3,7 @@
 
 'use strict';
 
+
 // Connection string for the IoT Hub service
 //
 // NOTE:
@@ -52,7 +53,7 @@ var printMessage = function (message) {
   console.log("todevice "+ JSON.stringify(data.todevice));
   deviceName = JSON.stringify(data.command);
   console.log("deviceName "+ deviceName);
-logger.info('logging running'+deviceId);
+logger.info('logging running1');
 if( typeof deviceId!="undefined"){
 var targetDevice = JSON.parse(deviceId);;
 
@@ -76,7 +77,7 @@ serviceClient.open(function (err) {
    // message.ack = 'full';
     //message.messageId = "My Message ID";
     console.log('Sending message: ' + message.getData());
-    serviceClient.send(targetDevice, message,   ('send'));
+    serviceClient.send(targetDevice, message,  printResultFor('send'));
   }
 });
 
@@ -86,17 +87,6 @@ function receiveFeedback(err, receiver){
     console.log(msg.getData().toString('utf-8'));
   });
 }
-process
-  .on('unhandledRejection', (reason, p) => {
-    console.error(reason, 'Unhandled Rejection at Promise', p);
-logger.info('logging error'+reason);
-  })
-  .on('uncaughtException', err => {
-logger.info('logging error22-> '+err);
-    console.error(err, 'Uncaught Exception thrown');
-    process.exit(1);
-  });
-
   console.log("command "+ JSON.stringify(data.command));
   console.log('Application properties (set by device): ')
   console.log(JSON.stringify(message.applicationProperties));
